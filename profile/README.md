@@ -7,8 +7,9 @@ reMarkable *even more remarkable*, you’re in the right place.
 
 ## Who We Are
 
-We’re simply fellow reMarkable users, passionate about exploring and sharing custom software mods. Our goal is to
-make these mods more accessible and enjoyable for everyone in the reMarkable community.
+unreMarkable Labs is nothing special—we're simply fellow reMarkable users, passionate about exploring and sharing
+custom software mods. Our goal is to make these mods more accessible and enjoyable for everyone in the reMarkable
+community.
 
 ## Who We Are Not
 
